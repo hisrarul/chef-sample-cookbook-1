@@ -1,4 +1,4 @@
-name 'package_install'
+name 'chef_sample_cookbook_1'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
